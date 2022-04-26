@@ -1,0 +1,80 @@
+#window{
+    margin-top: 50px;
+    background-color: #0B0B45;
+    color: white;
+    padding: 15px;
+    border-radius: 13px;
+    box-shadow: 0 0 5px black;
+}
+.swap_select{
+    width: 50%;
+    float: left;
+}
+.amount_select{
+    width: 50%;
+    float: right;
+}
+.swapbox{
+    overflow: auto;
+    margin: 20px 0;
+    padding: 20px;
+    background-color: #0f0f61;
+    border-radius: 13px;
+    border: 1px solid #141483
+}
+#swap_btn{
+    width:100%;
+    background-color: #1a1a9e;
+    color: white;
+}
+#btn-login{
+    background-color: #05051f;
+    color:#007bff;
+
+}
+#btn-logout{
+    background-color: #05051f;
+    color:#007bff;
+}
+.body{
+    background-color: #05051f;
+}
+.navbar{
+    background-color: #05051f;
+    color: white;
+}
+.token_select{
+    padding: 5px 0;
+}
+.token_select:hover{
+    background-color: #103e6e;
+    cursor: pointer;
+}
+.token_list_img {
+    width: 40px
+}
+.modal-body{
+    height: 550px;
+    overflow: scroll;
+    background-color: #08396e;
+    color: white;
+    
+
+}
+.modal-header{
+    background-color: #113d6b;
+    color: white;
+}
+.close{
+    color:white;
+}
+.token_row{
+    padding: 5px 10px;
+}
+.token_row:hover{
+background-color: #184e88;
+cursor: pointer;
+}
+.token_img{
+    width: 40px;
+}
